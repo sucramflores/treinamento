@@ -6,4 +6,8 @@
 
 <a href="https://docs.google.com/presentation/d/119wxasM-2d-t3VTjXW-UBP5a0DzcpcidYP0ow1PgPOM/edit?usp=sharing" target="_blank">G-Slides</a>
 
-<a href="https://lookerstudio.google.com/">G-Looker</a>
+<a href="https://lookerstudio.google.com/" target="_blank">G-Looker</a>
+
+<a href="https://lookerstudio.google.com/s/uBYt7n6-goQ" target="_blank">Dev Ninja</a>
+
+
