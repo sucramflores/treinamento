@@ -10,4 +10,9 @@
 
 <a href="https://lookerstudio.google.com/s/uBYt7n6-goQ" target="_blank">Dev Ninja</a>
 
+<a href="https://lookerstudio.google.com/reporting/ccaca48b-b0dd-4962-8b21-8cb076a2d8ac/page/AGJrD" target="_blank">Vendas1</a>
+
+
+
+
 
